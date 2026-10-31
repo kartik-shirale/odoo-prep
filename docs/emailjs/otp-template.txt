@@ -1,0 +1,12 @@
+Hi {{name}},
+
+Use this code to {{purpose}}:
+
+{{otp}}
+
+The code expires in {{expiry_minutes}} minutes and can be used only once.
+Enter it in the odoo screen where you requested this email.
+
+If you did not request this email, ignore it. Never share this code.
+
+odoo - Your connected workspace

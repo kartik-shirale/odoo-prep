@@ -42,7 +42,7 @@ src/
 └── main.tsx / App.tsx
 ```
 
-## imp : pages folder is the actual routes.  
+## imp : pages folder is the actual routes. liek auth/signup or signin or forgetpass.tsx  
 Rules:
 - Each component lives in its own folder with `index.tsx` (in `global`, `layout`, `forms`). Sub-components used only by that component live inside its folder.
 - Pages are thin: compose layout + feature components + hooks. No business logic in pages.
